@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">testchat</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login To Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="add_image">add image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="selectuser">SelectUser</string>
+    <string name="silahkan_login">Silahkan Login</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="foto">Foto</string>
+    <string name="daftar">Daftar</string>
+    <string name="belum_punya_akun_silahkan_register">Belum punya akun ? Silahkan Register</string>
+    <string name="belum_punya_akun_silahkan_registrasi">Belum Punya Akun ? Silahkan Registrasi</string>
+    <string name="pilih_user">Pilih User</string>
+    <string name="online">Online</string>
+</resources>
